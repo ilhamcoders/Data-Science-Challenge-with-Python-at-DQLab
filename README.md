@@ -1,1 +1,1 @@
-# Data-Science-Challenge-with-Python-at-DQLab
+# Data Science Challenge with Python at DQLab
