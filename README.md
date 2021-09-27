@@ -1,7 +1,24 @@
-# Data Science Challenge with Python at DQLab
+# Project Kerjasama DQLab dengan CT Corp
 
-DQLab adalah portal belajar data yang sangat lengkap. Jika kamu ingin menjadi seorang praktisi data, maka wajib untuk belajar di DQLab. Terdapat tiga bahasa pemrograman yang disediakan, yakni R, Python, dan SQL. Ketiga bahasa tersebut sangat populer di dunia Data Science sekarang ini.
+CT Corp adalah konglomerat konsumen terbesar dan berkembang pesat di Indonesia dengan bisnis utama di perbankan, jasa keuangan, media, gaya hidup, hiburan, sumber daya alam, dan F&B. CT Corp telah mendirikan perusahaan yang kuat di pasar konsumen seperti: Bank Mega, Bank Mega Syariah, Mega Life, DetikNetwork, TRANSMEDIA (Trans TV, Trans 7, TV CNN Indonesia, CNNIndonesia.com, CNBC TV, (CNBCIndonesia.com), Trans Fashion, Transmart (Carrefour), and F&B (Baskin Robins, Coffee Bean, Wendy’s).
 
-Di DQLab, terdapat menu Learn dimana kita bisa belajar materi yang disajikan dengan sangat lengkap dan runtut, sehingga tidak perlu bingung mau mulai dari mana. Kemudian terdapat juga beberapa Project yang dibuat berdasarkan kasus di lapangan, jadi kita bisa belajar dan merasakan langsung peran dari seorang praktisi data. Tidak lupa juga terdapat Career Track yang bisa menjadi awal bagi kita dalam memulai karir di bidang data.
+**Probabilitas**
 
-Repositori ini saya gunakan untuk menyimpan dan membagikan data sebagai hasil dari mengerjakan project di DQLab. Dalam setiap folder akan saya lampirkan dokumen markdown dan data yang digunakan dalam project yang bersangkutan.
+Tes Probabilitas ini dirancang untuk memperlihatkan kemampuan dalam mengkoseptualisasikan pengetahuan dalam bidang probabilitas.
+
+**Statistik**
+
+Tes Statistik ini dirancang untuk memperlihatkan pengetahuan terkait dasar-dasar ilmu statistik.
+
+**Interpretasi Model**
+
+Tes Interpretasi Model ini  dirancang untuk memperlihatkan kemampuan dalam memberikan insight/kesimpulan dan pengambilan keputusan pendukung terkait dengan model yang dibangun melalui penerapan data science.
+
+**Tantangan Pemrograman Python**
+
+Tes Pemograman ini dirancang untuk memperlihatkan kemampuan dalam menerapkan logical thinking (berfikir logis) melalui kode-kode program yang ditanyakan. Bahasa pemrograman yang digunakan adalah Python.
+
+
+referensi:
+
+https://academy.dqlab.id/main/package/project/158?pf=0
