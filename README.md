@@ -4,7 +4,7 @@ CT Corp adalah konglomerat konsumen terbesar dan berkembang pesat di Indonesia d
 
 **Probabilitas**
 
-Tes Probabilitas ini dirancang untuk memperlihatkan kemampuan dalam mengkoseptualisasikan pengetahuan dalam bidang probabilitas.
+Tes Probabilitas ini dirancang untuk memperlihatkan kemampuan dalam mengkonseptualisasikan pengetahuan dalam bidang probabilitas.
 
 **Statistik**
 
